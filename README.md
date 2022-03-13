@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @hoteymaks
-- 👀 I’m interested in Graphic Design, Programming, Voice Acting and Video Editing
-- 🌱 I’m currently learning Java
-- 📫 hoteymaks@yandex.ru
-
-<!---
-hoteymaks/hoteymaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Chief Executive Officer @ HoteyMaksProjects, Lead Designer @ CodoMine, Accredited Graphic Designer, Voice Actor and creator/maintainer of Simmetria, Splitometer, ComSec Multitool and a variety of games.
+Originally, I wanted to be a teacher, but moved into software development to follow the passion I grew up with. The first steps that I took as an indie game developer allowed me to acquire good qualities as a software developer, a team leader and the head of a small developer team. In 2020, I created a tooltip app for my needs, which to this day brings joy and relief to many designers around the world.
