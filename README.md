@@ -1,7 +1,7 @@
 <h1>Arystan Kanafin</h1>
 
 Chief Executive Officer @ HoteyMaksProjects, <a href="https://astanahub.com/ru/techorda/course/232/">Android App Development Teacher @ Tech Orda</a>, Lead Designer @ CodoMine, Accredited Graphic Designer, Voice Actor and creator/maintainer of Simmetria, Splitometer, ComSec Multitool and a variety of games.
-<a href="https://samsung-campus.kz/certificate">2021-2022 Alumni of Samsung Innovation Campus</a> w/ 1st place in Social Apps category (№118). 
+<br><a href="https://samsung-campus.kz/certificate">2021-2022 Alumni of Samsung Innovation Campus</a> w/ 1st place in Social Apps category (№118). 
 
 Originally, I wanted to be a teacher, but moved into software development to follow the passion I grew up with. The first steps that I took as an indie game developer allowed me to acquire good qualities as a software developer, a team leader and the head of a small developer team. In 2020, I created a tooltip app for my needs, which to this day brings joy and relief to many designers around the world.
 
