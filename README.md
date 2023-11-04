@@ -25,6 +25,7 @@ Originally, I wanted to be a teacher, but moved into software development to fol
   <li>Lead Designer @ CodoMine - 4 years of experience</li>
   <li>Head of Sales Management @ InstaProgress - 1 year of experience</li>
   <li>Graphic Designer @ Polimed Ltd. - 1 year of experience</li>
+  <br>
 </ul>
 
-<i>Proudly trained 28 individuals during Java & Android development course.</i>
+> Proudly trained 28 individuals during Java & Android development course.
