@@ -7,20 +7,22 @@ Originally, I wanted to be a teacher, but moved into software development to fol
 
 <h4>Things I'm good at:</h4>
 <ul>
-  <li>Android App Development - Android SDK, Java, XML, Firebase</li>
-  <li>Desktop App Development - WPF, C#, WinForms</li>
+  <li>Android App Development - Android SDK, Java, Kotlin Multiplatform, XML, Firebase</li>
+  <li>Desktop App Development - WPF, C#, WinForms, Avalonia UI</li>
   <li>Web Page Development - HTML5, CSS3, Pure JS</li>
-  <li>Graphic Design - Photoshop, Illustrator, InkScape</li>
+  <li>Graphic Design - Photoshop, Figma (Pixso), Illustrator, InkScape</li>
   <li>Voiceover - English, Kazakh, Russian VO</li>
   <li>Video editing - Premiere, Vegas Pro, After Effects</li>
   <li>Music Production - FL Studio</li>
   <li>3D Modelling - Blender</li>
   <li>Game Development - UE, Unity, Godot</li>
-  <li>Programming - Python, Java, C#, C++, JavaScript, Pascal, Object Pascal, XML, HTML, CSS, Bash, Lua</li>
+  <li>Programming - Python, Java, C#, C++, Golang, Kotlin, JavaScript, Pascal, Object Pascal, XML, HTML, CSS, Bash, Lua</li>
 </ul>
 
 <h4>Work experience</h4>
 <ul>
+  <li>Graphic Designer @ iMAS GROUP Ltd. - currently</li>
+  <li>School Subjects Tutor @ LinguaTown - currently</li>
   <li>Android App Development Teacher @ Tech Orda - 2 years of experience</li>
   <li>Lead Designer @ CodoMine - 4 years of experience</li>
   <li>Head of Sales Management @ InstaProgress - 1 year of experience</li>
